@@ -12,6 +12,7 @@
         <module>MyRpcBySocket</module>
         <module>MyRpCByNetty</module>
         <module>MySpring</module>
+        <module>MybatisFake</module>
     </modules>
 
 
